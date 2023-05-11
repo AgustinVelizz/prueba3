@@ -1,0 +1,14 @@
+textarea{
+    resize: none;
+}
+body{
+    background-color: rgb(59, 59, 59);
+background-image:url(/IMG/logo\ aguila.jpeg) ;
+background-repeat: no-repeat;
+background-size: auto 100vh;
+background-attachment: fixed;
+background-position: center top;
+}
+.gmails{
+    text-decoration: none;
+}
